@@ -1,0 +1,122 @@
+{
+    "culture": {
+        "en-us": {
+            "pages": [
+                {
+                    "page": "Example",
+                    "id": 1,
+                    "text": "All content are availble for free over"
+                },
+                {
+                    "page": "Example",
+                    "id": 2,
+                    "text": "on"
+                },
+                {
+                    "page": "Example",
+                    "id": 3,
+                    "text": "How to..."
+                },
+                {
+                    "page": "HowTo",
+                    "id": 1,
+                    "text": "1. Draw over the image the desired areas on figma.com.\n-\n2. Group all areas and export them to a SVG file."
+                },
+                {
+                    "page": "HowTo",
+                    "id": 2,
+                    "text": "3. On Query Editor select the folder (where you save the SVG file) on [Source] step of [Folder] query."
+                },
+                {
+                    "page": "HowTo",
+                    "id": 3,
+                    "text": "4. Insert the SVG file name (with the extension) on [SVG File Name] parameter."
+                },
+                {
+                    "page": "HowTo",
+                    "id": 4,
+                    "text": "5. Copy all content on [TopoJson] query."
+                },
+                {
+                    "page": "HowTo",
+                    "id": 5,
+                    "text": "6. On your favorite text editor paste the TopoJson content and save as a JSON file."
+                },
+                {
+                    "page": "HowTo",
+                    "id": 6,
+                    "text": "7. On Power BI Desktop check if [Shape Map Visual] is enabled on [Preview features] options."
+                },
+                {
+                    "page": "HowTo",
+                    "id": 7,
+                    "text": "8. Insert a Shape Map visual to the report and set an ID field (starting on 1) for Location.\n-\n9. On Map settings set Map type as Custom map, select the JSON file on Add a map type, and set Projection as Equirectangular.\n-\n10. Turn off the Background of the map."
+                },
+                {
+                    "page": "HowTo",
+                    "id": 8,
+                    "text": "11. Now just resize and position the map until match with the image below it."
+                }
+            ]
+        },
+        "pt-br": {
+            "pages": [
+                {
+                    "page": "Example",
+                    "id": 1,
+                    "text": "Todo o conteúdo está disponível gratuitamente sob a licença"
+                },
+                {
+                    "page": "Example",
+                    "id": 2,
+                    "text": "em"
+                },
+                {
+                    "page": "Example",
+                    "id": 3,
+                    "text": "Como utilizar..."
+                },
+                {
+                    "page": "HowTo",
+                    "id": 1,
+                    "text": "1. Desenhe sobre a imagem as áreas desejadas em figma.com.\n-\n2. Agrupe todas as áreas e as exporte como um arquivo SVG."
+                },
+                {
+                    "page": "HowTo",
+                    "id": 2,
+                    "text": "3. No Editor de consultas selecione a pasta (onde você salvou o arquivo SVG) na etapa [Source] da consulta [Folder]."
+                },
+                {
+                    "page": "HowTo",
+                    "id": 3,
+                    "text": "4. Insira o nome do arquivo SVG (com a extensão) no parâmetro [SVG File Name]."
+                },
+                {
+                    "page": "HowTo",
+                    "id": 4,
+                    "text": "5. Copie todo o conteúdo da consulta [TopoJson]."
+                },
+                {
+                    "page": "HowTo",
+                    "id": 5,
+                    "text": "6. No seu editor de texto favorito cole o conteúdo do TopoJson e salve como um arquivo JSON."
+                },
+                {
+                    "page": "HowTo",
+                    "id": 6,
+                    "text": "7. No Power BI Desktop verifique se a opção [Moldar visual do mapa] está ativo nas opções [Recursos de visualização]."
+                },
+                {
+                    "page": "HowTo",
+                    "id": 7,
+                    "text": "8. Insira um visual de Mapa de formas no relatório e defina um campo de ID (começando em 1) para a [Localização].\n-\n9. Nas configurações do mapa, defina o [Tipo de mapa] como [Mapa personalizado], selecione o arquivo JSON em [Adicionar um tipo de mapa] e defina a [Projeção] como [Equiretangular].\n-\n10. Desative a [Tela de fundo] do mapa."
+                },
+                {
+                    "page": "HowTo",
+                    "id": 8,
+                    "text": "11. Agora é só redimensionar e posicionar o mapa até que coincida com a imagem abaixo dele."
+                }
+            ]
+        }
+    }
+}
